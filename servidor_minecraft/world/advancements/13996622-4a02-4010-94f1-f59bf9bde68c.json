@@ -1,4 +1,16 @@
 {
+  "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/craft_earth_essence": {
     "criteria": {
       "has_item": "2025-04-10 21:09:52 +0000"
@@ -8,6 +20,12 @@
   "mutantmonsters:root": {
     "criteria": {
       "killed_by_something": "2025-04-10 21:20:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -35,9 +53,51 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-10 21:09:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/building_blocks/red_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-10 21:37:09 +0000"
     },
     "done": true
   },
@@ -53,15 +113,45 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-04-10 21:28:22 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:28:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-10 21:30:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -74,6 +164,12 @@
   "cyanwarriorswordsredux:recipes/upgrade_sword_beast": {
     "criteria": {
       "has_item": "2025-04-10 21:09:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -95,9 +191,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/craft_beast_essence": {
     "criteria": {
       "has_item": "2025-04-10 21:09:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -107,9 +227,21 @@
     },
     "done": true
   },
+  "tropicraft:recipes/building_blocks/mohogany_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-04-10 21:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -131,6 +263,36 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:28:22 +0000"
@@ -143,6 +305,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/building_blocks/papaya_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_taiga": "2025-04-10 21:09:52 +0000",
@@ -150,6 +318,18 @@
       "village_snowy": "2025-04-10 21:09:52 +0000",
       "village_desert": "2025-04-10 21:09:52 +0000",
       "village_plains": "2025-04-10 21:09:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -165,9 +345,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/craft_triender_thunder": {
     "criteria": {
       "has_item": "2025-04-10 21:09:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -201,9 +393,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:28:22 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/building_blocks/black_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -222,6 +426,18 @@
   "cyanwarriorswordsredux:recipes/craft_wind_essence": {
     "criteria": {
       "has_item": "2025-04-10 21:09:52 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/building_blocks/light_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -261,9 +477,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:28:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -285,6 +513,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:28:22 +0000"
@@ -297,9 +531,45 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:28:22 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -327,6 +597,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:28:22 +0000"
@@ -345,6 +627,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/craft_light_essence": {
     "criteria": {
       "has_item": "2025-04-10 21:09:52 +0000"
@@ -354,6 +648,12 @@
   "cyanwarriorswordsredux:recipes/craft_meteothu_thu": {
     "criteria": {
       "has_item": "2025-04-10 21:09:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },
@@ -371,6 +671,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/craft_triender_wind": {
     "criteria": {
       "has_item": "2025-04-10 21:09:52 +0000"
@@ -383,9 +689,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 21:36:44 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/upgrade_sword_ender": {
     "criteria": {
       "has_item": "2025-04-10 21:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-04-10 21:36:44 +0000"
     },
     "done": true
   },

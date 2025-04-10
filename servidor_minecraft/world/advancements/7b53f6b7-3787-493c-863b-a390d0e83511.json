@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/short_acacia_door": {
+    "criteria": {
+      "has_items": "2025-04-10 21:38:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-04-10 21:18:17 +0000"
@@ -119,6 +125,24 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/straw": {
+    "criteria": {
+      "has_wheat": "2025-04-10 21:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-10 21:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
@@ -134,6 +158,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-10 21:27:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-04-10 21:38:03 +0000"
     },
     "done": true
   },
@@ -185,6 +215,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-04-10 21:38:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_table": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
@@ -200,6 +236,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-10 21:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
     },
     "done": true
   },
@@ -221,9 +263,21 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2025-04-10 21:34:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
     },
     "done": true
   },
@@ -245,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-10 21:38:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:12:03 +0000"
@@ -254,6 +314,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-04-10 21:21:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-04-10 21:30:32 +0000"
     },
     "done": true
   },
@@ -278,6 +344,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-10 21:38:03 +0000"
     },
     "done": true
   },
@@ -329,6 +401,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-04-10 21:34:18 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/upgrade_sword_wind": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
@@ -338,6 +416,12 @@
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-04-10 21:12:12 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2025-04-10 21:34:18 +0000"
     },
     "done": true
   },
@@ -413,6 +497,18 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-04-10 21:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-04-10 21:18:17 +0000"
@@ -473,9 +569,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-04-10 21:30:32 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/craft_dark_essence": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2025-04-10 21:30:42 +0000"
     },
     "done": true
   },
@@ -521,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_cabinet": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
@@ -552,6 +666,12 @@
       "village_snowy": "2025-04-10 21:05:13 +0000",
       "village_desert": "2025-04-10 21:05:13 +0000",
       "village_plains": "2025-04-10 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2025-04-10 21:32:50 +0000"
     },
     "done": true
   },
@@ -615,6 +735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-10 21:14:28 +0000"
@@ -627,6 +753,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-04-10 21:38:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-04-10 21:14:28 +0000"
@@ -636,6 +774,18 @@
   "cyanwarriorswordsredux:recipes/upgrade_sword_thunder": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
     },
     "done": true
   },
@@ -663,6 +813,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-04-10 21:38:03 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/craft_fire_essence": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
@@ -672,6 +828,12 @@
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
     },
     "done": true
   },
@@ -693,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-10 21:30:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:12:03 +0000"
@@ -711,6 +879,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-04-10 21:31:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-10 21:18:17 +0000"
@@ -723,9 +897,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/from_abilitytotem": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_acacia_door": {
+    "criteria": {
+      "has_items": "2025-04-10 21:38:51 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-04-10 21:34:18 +0000"
     },
     "done": true
   },
@@ -747,6 +951,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2025-04-10 21:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-10 21:12:14 +0000"
@@ -756,6 +966,12 @@
   "tropicraft:recipes/building_blocks/light_mangrove_wood": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-04-10 21:32:50 +0000"
     },
     "done": true
   },
@@ -806,6 +1022,12 @@
       "in_water": "2025-04-10 21:12:03 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2025-04-10 21:30:42 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
@@ -927,6 +1149,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-04-10 21:30:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_upgraded_gate": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
@@ -1023,9 +1251,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-04-10 21:30:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2025-04-10 21:38:03 +0000"
     },
     "done": true
   },
@@ -1041,6 +1281,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-04-10 21:30:32 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-04-10 21:05:13 +0000"
@@ -1050,6 +1296,12 @@
   "mcwbridges:recipes/acacia_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
     },
     "done": true
   },
@@ -1074,6 +1326,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-04-10 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
     },
     "done": true
   },
@@ -1109,9 +1367,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-04-10 21:38:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_chair": {
     "criteria": {
       "has_planks": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
     },
     "done": true
   },
@@ -1154,6 +1424,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-10 21:32:50 +0000"
     },
     "done": true
   },
