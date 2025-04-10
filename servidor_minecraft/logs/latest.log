@@ -3052,3 +3052,46 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [10Apr2025 23:02:55.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/118914, l='ServerLevel[world]', x=789.08, y=-51.00, z=-1642.35] died: Entity was shot by Skeleton
 [10Apr2025 23:04:49.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/99894, l='ServerLevel[world]', x=793.30, y=0.00, z=-1507.30] died: Joker_de_Coeur was slain by Zombie
 [10Apr2025 23:04:55.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/99893, l='ServerLevel[world]', x=773.30, y=10.00, z=-1511.30] died: Nova69 was slain by Enderman
+[10Apr2025 23:05:36.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Youssra'/115176, l='ServerLevel[world]', x=591.91, y=63.00, z=-1367.35] died, message: 'Youssra was slain by Infected Evoker'
+[10Apr2025 23:05:36.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Youssra'/115176, l='ServerLevel[world]', x=591.91, y=63.00, z=-1367.35] died: Youssra was slain by Infected Evoker
+[10Apr2025 23:06:23.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/123957, l='ServerLevel[world]', x=735.55, y=-34.60, z=-1523.40] died: Sire_AwfulThe1st was slain by Crystalian
+[10Apr2025 23:08:52.591] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/130404, l='ServerLevel[world]', x=683.70, y=71.00, z=-1452.20] died: Mademoiselle2016 was slain by Overgrown Skeleton
+[10Apr2025 23:09:35.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [An Extra Seedy Place]
+[10Apr2025 23:12:11.622] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/141199, l='ServerLevel[world]', x=838.50, y=-36.00, z=-1544.50]
+[10Apr2025 23:12:12.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hypnotizd'/138492, l='ServerLevel[world]', x=826.31, y=-8.00, z=-1708.17] died: Hypnotizd fell from a high place
+[10Apr2025 23:12:45.924] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/141842, l='ServerLevel[world]', x=817.50, y=-31.00, z=-1595.50]
+[10Apr2025 23:13:03.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [Acquire Hardware]
+[10Apr2025 23:15:10.136] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/147610, l='ServerLevel[world]', x=1295.50, y=72.00, z=-1185.50]
+[10Apr2025 23:15:13.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Ol' Betsy]
+[10Apr2025 23:15:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Take Aim]
+[10Apr2025 23:15:24.046] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/147957, l='ServerLevel[world]', x=1304.50, y=64.00, z=-1167.50]
+[10Apr2025 23:15:26.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Spore]
+[10Apr2025 23:15:51.237] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/148535, l='ServerLevel[world]', x=1338.50, y=70.00, z=-1149.50]
+[10Apr2025 23:15:59.196] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/148751, l='ServerLevel[world]', x=1349.50, y=70.00, z=-1135.50]
+[10Apr2025 23:16:13.681] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Verjine'/146760, l='ServerLevel[world]', x=1402.13, y=66.00, z=-1068.94] died, message: 'Verjine was slain by Griefer'
+[10Apr2025 23:16:13.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Verjine'/146760, l='ServerLevel[world]', x=1402.13, y=66.00, z=-1068.94] died: Verjine was slain by Griefer
+[10Apr2025 23:16:18.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [Knowledge of Death]
+[10Apr2025 23:16:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has reached the goal [Strong or Careful]
+[10Apr2025 23:16:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m was slain by LoneGuy
+[10Apr2025 23:16:18.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [Your First Grave]
+[10Apr2025 23:16:18.369] [Server thread/INFO] [tombstone/]: The player Awiita02m has successfully been saved
+[10Apr2025 23:16:27.511] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Apr2025 23:16:37.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has reached the goal [Here They Come]
+[10Apr2025 23:16:43.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/149759, l='ServerLevel[world]', x=1397.50, y=66.00, z=-1144.50]
+[10Apr2025 23:16:48.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [Easter Egg Searcher]
+[10Apr2025 23:16:51.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Kraken'/149269, l='ServerLevel[world]', x=654.91, y=2.00, z=-1512.70] died: Kraken was doomed to fall
+[10Apr2025 23:16:54.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/149691, l='ServerLevel[world]', x=777.22, y=31.13, z=-1639.34] died: hacie was slain by Zombie
+[10Apr2025 23:17:12.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass'/150890, l='ServerLevel[world]', x=1382.50, y=67.00, z=-1140.50]
+[10Apr2025 23:17:51.298] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/134868, l='ServerLevel[world]', x=721.30, y=71.52, z=-1518.42] died: LoneGuy was slain by Awiita02m
+[10Apr2025 23:18:02.561] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/149325, l='ServerLevel[world]', x=772.90, y=-15.48, z=-1458.31] died: ABucketOfFriedChicken was slain by Enderman
+[10Apr2025 23:18:32.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/146783, l='ServerLevel[world]', x=1421.53, y=-7.43, z=-1188.81] died: Ike was slain by Zombie
+[10Apr2025 23:18:46.335] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/154615, l='ServerLevel[world]', x=793.50, y=-17.00, z=-1509.50]
+[10Apr2025 23:19:36.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/147555, l='ServerLevel[world]', x=770.49, y=-44.35, z=-1639.42] died: WhisperFire26 was slain by Crystalian
+[10Apr2025 23:19:55.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Knowledge of Death]
+[10Apr2025 23:19:55.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Easter Egg Searcher]
+[10Apr2025 23:20:28.830] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Demonid'/149309, l='ServerLevel[world]', x=1382.62, y=-12.00, z=-1103.39] died: Demonid withered away
+[10Apr2025 23:21:01.030] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/158654, l='ServerLevel[world]', x=733.50, y=-35.00, z=-1523.50]
+[10Apr2025 23:21:30.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/149290, l='ServerLevel[world]', x=659.08, y=66.00, z=-1442.28] died: Mad_Dog was shot by Overgrown Skeleton
+[10Apr2025 23:23:48.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime was slain by Zombie
+[10Apr2025 23:23:48.551] [Server thread/INFO] [tombstone/]: The player LagSlime has successfully been saved
+[10Apr2025 23:24:05.485] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
