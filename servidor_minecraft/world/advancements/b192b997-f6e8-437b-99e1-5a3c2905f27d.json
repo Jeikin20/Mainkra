@@ -987,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 22:52:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_planks": "2025-04-10 22:37:20 +0000"
@@ -1445,6 +1451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-10 22:51:21 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-04-10 22:10:27 +0000"
@@ -1478,6 +1490,12 @@
   "croptopia:recipes/misc/apricot_sapling": {
     "criteria": {
       "has_apricot": "2025-04-10 22:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-04-10 22:53:00 +0000"
     },
     "done": true
   },
@@ -1683,6 +1701,12 @@
   "biomesoplenty:recipes/decorations/magic_fence": {
     "criteria": {
       "has_planks": "2025-04-10 22:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 22:52:52 +0000"
     },
     "done": true
   },

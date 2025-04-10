@@ -3038,3 +3038,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [10Apr2025 22:43:21.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LagSlime moved wrongly!
 [10Apr2025 22:43:23.282] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [10Apr2025 22:43:40.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/73226, l='ServerLevel[world]', x=672.30, y=28.00, z=-1495.71] died: WhisperFire26 was slain by Overgrown Skeleton
+[10Apr2025 22:45:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> zzz
+[10Apr2025 22:45:59.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/105105, l='ServerLevel[world]', x=930.86, y=-18.30, z=-1373.56] died: WhisperFire26 was slain by Zombie
+[10Apr2025 22:47:51.677] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/108143, l='ServerLevel[world]', x=792.13, y=70.00, z=-1527.94] died: Ripley was slain by Zombie
+[10Apr2025 22:48:05.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/101637, l='ServerLevel[world]', x=1278.95, y=-21.00, z=-1157.32] died: Nova69 was shot by Skeleton
+[10Apr2025 22:48:20.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/108310, l='ServerLevel[world]', x=786.22, y=-11.00, z=-1564.74] died: xXFuryXx withered away whilst fighting Glow Skeleton
+[10Apr2025 22:48:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Prepare...
+[10Apr2025 22:51:07.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Bowser'/104384, l='ServerLevel[world]', x=1382.68, y=66.00, z=-1146.14] died: Bowser was slain by Spider

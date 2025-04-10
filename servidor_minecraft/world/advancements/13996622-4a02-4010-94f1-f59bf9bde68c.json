@@ -188,7 +188,8 @@
       "minecraft:beach": "2025-04-10 21:21:34 +0000",
       "minecraft:river": "2025-04-10 22:41:13 +0000",
       "minecraft:forest": "2025-04-10 21:09:52 +0000",
-      "minecraft:savanna": "2025-04-10 21:19:42 +0000"
+      "minecraft:savanna": "2025-04-10 21:19:42 +0000",
+      "minecraft:plains": "2025-04-10 22:45:25 +0000"
     },
     "done": false
   },
@@ -756,6 +757,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-10 22:40:13 +0000"
@@ -804,6 +811,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-04-10 22:32:27 +0000"
@@ -831,6 +844,12 @@
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2025-04-10 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -866,9 +885,23 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-04-10 22:43:17 +0000"
+      "minecraft:skeleton": "2025-04-10 22:43:17 +0000",
+      "minecraft:creeper": "2025-04-10 22:49:03 +0000",
+      "minecraft:zombie": "2025-04-10 22:49:08 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/oak_crate": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
   },
   "chococraft:recipes/food/gysahl_cake": {
     "criteria": {
@@ -888,6 +921,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-04-10 22:31:18 +0000"
@@ -903,6 +942,12 @@
   "mcwbridges:recipes/acacia_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-10 22:31:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -930,6 +975,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/decorations/bamboo_item_frame": {
     "criteria": {
       "has_leather": "2025-04-10 22:42:18 +0000"
@@ -942,6 +993,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:48:44 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/chocopedia": {
     "criteria": {
       "has_gysahl_green": "2025-04-10 22:39:47 +0000"
@@ -951,6 +1014,12 @@
   "framedblocks:recipes/building_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-04-10 22:31:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1008,6 +1077,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-04-10 22:31:18 +0000"
@@ -1032,15 +1107,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-04-10 22:32:27 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/scrambled_eggs": {
     "criteria": {
       "has_egg": "2025-04-10 22:40:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1086,9 +1179,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-10 22:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1134,9 +1245,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-10 22:33:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1152,15 +1275,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-04-10 22:45:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-04-10 22:42:19 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/misc/light_gray_umbrella": {
     "criteria": {
       "has_light_gray_wool": "2025-04-10 22:40:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1176,9 +1323,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-10 22:40:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1194,6 +1353,18 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-04-10 22:54:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-10 22:31:18 +0000"
@@ -1203,6 +1374,12 @@
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-04-10 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1224,9 +1401,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 22:47:34 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2025-04-10 22:40:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-04-10 22:45:54 +0000"
     },
     "done": true
   },
@@ -1239,6 +1434,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-04-10 22:31:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1284,15 +1485,51 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-10 22:49:31 +0000"
+    },
+    "done": true
+  },
   "toolbelt:recipes/pouch": {
     "criteria": {
       "has_leather": "2025-04-10 22:42:18 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2025-04-10 22:40:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:48:44 +0000"
     },
     "done": true
   },
@@ -1304,7 +1541,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "scrubland": "2025-04-10 22:41:02 +0000"
+      "shrubland": "2025-04-10 22:46:17 +0000",
+      "rocky_shrubland": "2025-04-10 22:53:40 +0000",
+      "scrubland": "2025-04-10 22:41:02 +0000",
+      "mystic_grove": "2025-04-10 22:47:20 +0000"
     },
     "done": false
   },
@@ -1332,6 +1572,42 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:48:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:48:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-10 22:49:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-10 22:40:13 +0000"
@@ -1341,6 +1617,12 @@
   "tropicraft:recipes/misc/black_umbrella": {
     "criteria": {
       "has_black_wool": "2025-04-10 22:40:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1356,6 +1638,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:48:44 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/misc/black_chair": {
     "criteria": {
       "has_black_wool": "2025-04-10 22:40:25 +0000"
@@ -1365,6 +1653,18 @@
   "cfm:recipes/decorations/light_gray_trampoline": {
     "criteria": {
       "has_wool": "2025-04-10 22:40:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_magic_planks": "2025-04-10 22:48:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1386,15 +1686,39 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-10 22:40:13 +0000"
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2025-04-10 22:45:54 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-04-10 22:40:25 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1416,6 +1740,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-04-10 22:32:27 +0000"
@@ -1431,6 +1761,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-10 22:34:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1476,6 +1812,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-04-10 22:33:50 +0000"
@@ -1503,6 +1845,12 @@
   "cfm:recipes/decorations/light_gray_sofa": {
     "criteria": {
       "has_wool": "2025-04-10 22:40:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
     },
     "done": true
   },
@@ -1536,6 +1884,24 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-04-10 22:54:11 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-10 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-10 22:33:50 +0000"
@@ -1545,6 +1911,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-10 22:32:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_flower": "2025-04-10 22:47:43 +0000"
     },
     "done": true
   },
