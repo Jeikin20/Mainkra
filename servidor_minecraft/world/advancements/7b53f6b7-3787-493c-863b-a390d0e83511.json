@@ -1731,6 +1731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-10 21:53:27 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/upgrade_sword_dark": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
@@ -1908,6 +1914,12 @@
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2025-04-10 21:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-10 21:53:27 +0000"
     },
     "done": true
   },

@@ -2973,3 +2973,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [10Apr2025 21:53:32.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/41976, l='ServerLevel[world]', x=1285.07, y=-32.00, z=-1158.12] died: Whisper was blown up by Cave Creeper
 [10Apr2025 21:54:14.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/30469, l='ServerLevel[world]', x=1471.08, y=-1.00, z=-1147.44] died: Deyvid was shot by Skeleton
 [10Apr2025 21:54:25.976] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Demonid'/43030, l='ServerLevel[world]', x=1281.15, y=16.00, z=-1050.58] died: Demonid was blown up by Cave Creeper
+[10Apr2025 21:55:28.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/39824, l='ServerLevel[world]', x=1395.00, y=-16.00, z=-1054.55] died: LoneGuy withered away whilst fighting Skeleton
+[10Apr2025 21:55:34.598] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Awiita02m is b192b997-f6e8-437b-99e1-5a3c2905f27d
+[10Apr2025 21:55:44.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Awiita02m[/127.85.180.135:41607] logged in with entity id 43852 at (1424.699999988079, 64.0, -1082.074999988079)
+[10Apr2025 21:55:44.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m joined the game
+[10Apr2025 21:55:44.994] [Server thread/INFO] [Jade/]: Syncing config to Awiita02m (b192b997-f6e8-437b-99e1-5a3c2905f27d)
+[10Apr2025 21:55:56.377] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/37929, l='ServerLevel[world]', x=1286.87, y=10.00, z=-1159.53] died: xXFuryXx was slain by Crystalian
+[10Apr2025 21:57:46.878] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/45492, l='ServerLevel[world]', x=1383.50, y=-4.00, z=-1021.50]
+[10Apr2025 21:58:49.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [An Extra Seedy Place]
+[10Apr2025 21:59:33.880] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/47445, l='ServerLevel[world]', x=1383.50, y=-4.00, z=-1032.50]
+[10Apr2025 22:00:27.237] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/44270, l='ServerLevel[world]', x=1355.27, y=2.00, z=-1160.94] died: Ripley was slain by Spider
+[10Apr2025 22:00:52.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> ZZZZ
+[10Apr2025 22:00:55.402] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/48545, l='ServerLevel[world]', x=1396.50, y=0.00, z=-1047.50]
+[10Apr2025 22:01:51.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> z
+[10Apr2025 22:01:57.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> ceta ceta ceta
+[10Apr2025 22:02:32.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> z
+[10Apr2025 22:02:39.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> ceta
+[10Apr2025 22:03:04.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> ceta ceta
+[10Apr2025 22:03:18.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> ceta cetaaaaaaa
+[10Apr2025 22:04:31.731] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/49858, l='ServerLevel[world]', x=1278.45, y=-2.00, z=-1140.29] died: Mad_Dog was slain by Glow Skeleton
