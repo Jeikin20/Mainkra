@@ -3095,3 +3095,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [10Apr2025 23:23:48.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime was slain by Zombie
 [10Apr2025 23:23:48.551] [Server thread/INFO] [tombstone/]: The player LagSlime has successfully been saved
 [10Apr2025 23:24:05.485] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Apr2025 23:26:02.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Knowledge raises the soul]
+[10Apr2025 23:26:15.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime has made the advancement [A Strange Grave Dust]
+[10Apr2025 23:28:44.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> zzz
+[10Apr2025 23:29:25.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/154364, l='ServerLevel[world]', x=751.01, y=-32.00, z=-1538.51] died: The_Harbinger69 was slain by Glow Skeleton
+[10Apr2025 23:35:47.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/174500, l='ServerLevel[world]', x=782.46, y=12.92, z=-1559.51] died: Deyvid was slain by Skeleton
+[10Apr2025 23:36:11.930] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/174170, l='ServerLevel[world]', x=849.36, y=4.30, z=-1689.34] died: Nova69 was slain by Zombie
+[10Apr2025 23:40:23.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/189144, l='ServerLevel[world]', x=1330.50, y=71.00, z=-1077.50]
+[10Apr2025 23:40:50.032] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/189664, l='ServerLevel[world]', x=1335.50, y=69.00, z=-1102.50]
+[10Apr2025 23:41:16.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/189491, l='ServerLevel[world]', x=764.06, y=-45.00, z=-1705.04] died: Nova69 was slain by Overgrown Skeleton
+[10Apr2025 23:41:32.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass'/190778, l='ServerLevel[world]', x=1309.50, y=67.00, z=-1098.50]
+[10Apr2025 23:41:43.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/175716, l='ServerLevel[world]', x=835.18, y=40.00, z=-1705.57] died: xXFuryXx was slain by Enderman
+[10Apr2025 23:42:07.728] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/192219, l='ServerLevel[world]', x=1347.50, y=69.00, z=-1103.50]
+[10Apr2025 23:42:16.672] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/192491, l='ServerLevel[world]', x=1334.50, y=69.00, z=-1103.50]
+[10Apr2025 23:43:05.331] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Grass Block'/194041, l='ServerLevel[world]', x=1340.50, y=71.00, z=-1152.50]
+[10Apr2025 23:43:17.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Prepare...
+[10Apr2025 23:44:24.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> zzzz
+[10Apr2025 23:44:41.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Prepare...
+[10Apr2025 23:44:47.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> zzz
