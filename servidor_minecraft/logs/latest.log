@@ -2958,3 +2958,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [10Apr2025 21:37:44.428] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marieta'/18071, l='ServerLevel[world]', x=1403.29, y=52.00, z=-1056.71] died, message: 'Marieta was slain by Infected Villager'
 [10Apr2025 21:37:44.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marieta'/18071, l='ServerLevel[world]', x=1403.29, y=52.00, z=-1056.71] died: Marieta was slain by Infected Villager
 [10Apr2025 21:41:25.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Demonid'/32341, l='ServerLevel[world]', x=1432.97, y=-32.00, z=-1026.14] died: Demonid was blown up by Cave Creeper
+[10Apr2025 21:48:29.987] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/37180, l='ServerLevel[world]', x=1366.30, y=47.00, z=-1118.04] died: WhisperFire26 was blown up by Cave Creeper
+[10Apr2025 21:48:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> zzz
+[10Apr2025 21:49:13.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Apr2025 21:49:13.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[10Apr2025 21:49:37.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Apr2025 21:49:37.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dios> Hola<--[HERE]
+[10Apr2025 21:49:44.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime was slain by Infected Wandering Trader
+[10Apr2025 21:49:44.985] [Server thread/INFO] [tombstone/]: The player LagSlime has successfully been saved
+[10Apr2025 21:50:16.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> zzz
+[10Apr2025 21:51:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] <Dios> hola
+[10Apr2025 21:52:15.802] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Apr2025 21:53:27.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Getting an Upgrade]
+[10Apr2025 21:53:32.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/41976, l='ServerLevel[world]', x=1285.07, y=-32.00, z=-1158.12] died: Whisper was blown up by Cave Creeper
+[10Apr2025 21:54:14.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/30469, l='ServerLevel[world]', x=1471.08, y=-1.00, z=-1147.44] died: Deyvid was shot by Skeleton
+[10Apr2025 21:54:25.976] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Demonid'/43030, l='ServerLevel[world]', x=1281.15, y=16.00, z=-1050.58] died: Demonid was blown up by Cave Creeper
