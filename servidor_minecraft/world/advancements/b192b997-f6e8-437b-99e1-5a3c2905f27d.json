@@ -422,6 +422,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:37:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-04-10 22:00:21 +0000"
@@ -590,6 +596,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_flower": "2025-04-10 22:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-10 22:14:44 +0000"
@@ -617,6 +629,12 @@
   "cfm:recipes/decorations/stripped_spruce_park_bench": {
     "criteria": {
       "has_log": "2025-04-10 21:59:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:27:18 +0000"
     },
     "done": true
   },
@@ -695,6 +713,12 @@
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-04-10 21:58:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:27:18 +0000"
     },
     "done": true
   },
@@ -909,6 +933,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:37:20 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2025-04-10 21:57:07 +0000"
@@ -939,6 +969,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 22:33:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fried_chicken": {
     "criteria": {
       "has_chicken": "2025-04-10 22:01:18 +0000"
@@ -948,6 +984,12 @@
   "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-10 21:59:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:37:20 +0000"
     },
     "done": true
   },
@@ -972,6 +1014,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-04-10 21:59:53 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/short_bop_magic_door": {
+    "criteria": {
+      "has_items": "2025-04-10 22:28:38 +0000"
     },
     "done": true
   },
@@ -1077,6 +1125,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-04-10 22:08:42 +0000"
@@ -1107,6 +1161,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 22:26:57 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/coconut_sapling": {
     "criteria": {
       "has_coconut": "2025-04-10 22:13:43 +0000"
@@ -1134,6 +1194,12 @@
   "croptopia:recipes/misc/squash_seed": {
     "criteria": {
       "has_squash": "2025-04-10 21:58:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:37:20 +0000"
     },
     "done": true
   },
@@ -1179,6 +1245,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:27:18 +0000"
+    },
+    "done": true
+  },
   "toolbelt:recipes/pouch": {
     "criteria": {
       "has_leather": "2025-04-10 22:13:37 +0000"
@@ -1188,6 +1260,12 @@
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
       "has_fruit": "2025-04-10 22:12:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:27:18 +0000"
     },
     "done": true
   },
@@ -1205,7 +1283,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "scrubland": "2025-04-10 21:57:05 +0000"
+      "shrubland": "2025-04-10 22:25:08 +0000",
+      "scrubland": "2025-04-10 21:57:05 +0000",
+      "mystic_grove": "2025-04-10 22:26:25 +0000"
     },
     "done": false
   },
@@ -1218,6 +1298,12 @@
   "cfm:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_log": "2025-04-10 21:59:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:33:43 +0000"
     },
     "done": true
   },
@@ -1245,9 +1331,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:27:18 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_bop_magic_door": {
+    "criteria": {
+      "has_items": "2025-04-10 22:28:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2025-04-10 21:58:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:27:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-04-10 22:26:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_flower": "2025-04-10 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:37:20 +0000"
     },
     "done": true
   },
@@ -1281,6 +1403,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:27:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-10 21:59:53 +0000"
@@ -1290,6 +1418,12 @@
   "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-10 21:59:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_magic_planks": "2025-04-10 22:27:18 +0000"
     },
     "done": true
   },
@@ -1314,6 +1448,12 @@
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-04-10 22:10:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-04-10 22:37:20 +0000"
     },
     "done": true
   },
@@ -1362,6 +1502,12 @@
   "toolbelt:recipes/belt": {
     "criteria": {
       "has_leather": "2025-04-10 22:13:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:37:20 +0000"
     },
     "done": true
   },
@@ -1434,6 +1580,12 @@
   "cfm:recipes/decorations/spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-04-10 21:59:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:37:20 +0000"
     },
     "done": true
   },
@@ -1528,6 +1680,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:27:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-10 22:08:42 +0000"
@@ -1555,6 +1713,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-10 22:00:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_flower": "2025-04-10 22:34:20 +0000"
     },
     "done": true
   },

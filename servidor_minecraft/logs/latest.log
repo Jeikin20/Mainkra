@@ -3007,3 +3007,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [10Apr2025 22:16:27.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [Monster Hunter]
 [10Apr2025 22:18:30.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/62672, l='ServerLevel[world]', x=1420.49, y=63.00, z=-1094.75] died: Gistique was slain by Iron Golem
 [10Apr2025 22:23:55.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/58974, l='ServerLevel[world]', x=1355.25, y=3.00, z=-1168.83] died: Nova69 was slain by Glow Skeleton
+[10Apr2025 22:29:17.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[10Apr2025 22:29:25.112] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LagSlime is 13996622-4a02-4010-94f1-f59bf9bde68c
+[10Apr2025 22:29:29.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LagSlime[/127.225.108.6:33553] logged in with entity id 76844 at (1445.5, 63.0, -1064.5)
+[10Apr2025 22:29:29.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime joined the game
+[10Apr2025 22:29:29.431] [Server thread/INFO] [Jade/]: Syncing config to LagSlime (13996622-4a02-4010-94f1-f59bf9bde68c)
+[10Apr2025 22:30:06.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LagSlime> zzzzzzzz
+[10Apr2025 22:33:50.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime has made the advancement [Stone Age]
+[10Apr2025 22:33:55.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Sadly, Won't Give More FPS]
+[10Apr2025 22:34:10.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime has made the advancement [Getting an Upgrade]
+[10Apr2025 22:34:27.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Endure...
+[10Apr2025 22:35:14.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/82053, l='ServerLevel[world]', x=728.83, y=31.00, z=-1601.83] died: Entity withered away
+[10Apr2025 22:35:25.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LagSlime> [name:"AWITA PENDEJA", x:691, y:59, z:-1512, dim:minecraft:overworld]
+[10Apr2025 22:36:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime was slain by Rouqile
+[10Apr2025 22:36:52.851] [Server thread/INFO] [tombstone/]: The player LagSlime has successfully been saved
+[10Apr2025 22:36:54.381] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Apr2025 22:37:11.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Where Is The Stone Pen?]
+[10Apr2025 22:37:13.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Rouqile'/16332, l='ServerLevel[world]', x=1436.30, y=64.39, z=-1062.30] died: Rouqile was slain by LagSlime
+[10Apr2025 22:39:07.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rouqile lost connection: Timed out
+[10Apr2025 22:39:07.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile left the game
+[10Apr2025 22:41:09.491] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Rouqile is 7b53f6b7-3787-493c-863b-a390d0e83511
+[10Apr2025 22:41:14.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rouqile[/127.58.65.166:47485] logged in with entity id 96278 at (1663.8787601430622, 64.0, -1271.280179814298)
+[10Apr2025 22:41:14.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile joined the game
+[10Apr2025 22:41:14.330] [Server thread/INFO] [Jade/]: Syncing config to Rouqile (7b53f6b7-3787-493c-863b-a390d0e83511)
+[10Apr2025 22:41:43.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime has made the advancement [Spore]
+[10Apr2025 22:43:17.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime has made the advancement [Monster Hunter]
+[10Apr2025 22:43:21.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime was struck by lightning
+[10Apr2025 22:43:21.851] [Server thread/INFO] [tombstone/]: The player LagSlime has successfully been saved
+[10Apr2025 22:43:21.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LagSlime moved wrongly!
+[10Apr2025 22:43:21.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LagSlime moved wrongly!
+[10Apr2025 22:43:23.282] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Apr2025 22:43:40.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/73226, l='ServerLevel[world]', x=672.30, y=28.00, z=-1495.71] died: WhisperFire26 was slain by Overgrown Skeleton
