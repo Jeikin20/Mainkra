@@ -1,0 +1,217 @@
+{
+  "cyanwarriorswordsredux:recipes/craft_earth_essence": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-04-10 21:08:20 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_fire": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-10 21:08:20 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_beast": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_wind": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_light": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_thunder_essence": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_beast_essence": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-10 21:08:20 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_water_essence": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_dark_essence": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_mixed_essence": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-04-10 21:08:21 +0000",
+      "village_savanna": "2025-04-10 21:08:21 +0000",
+      "village_snowy": "2025-04-10 21:08:21 +0000",
+      "village_desert": "2025-04-10 21:08:21 +0000",
+      "village_plains": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_earth": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_meteothu_meteo": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_triender_thunder": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_thunder": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_fire_essence": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/from_abilitytotem": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_wind_essence": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_triender_fire": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/smelt_furnace": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-10 21:08:20 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_dark": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_water": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_light_essence": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_meteothu_thu": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-04-10 21:08:21 +0000"
+    },
+    "done": false
+  },
+  "cyanwarriorswordsredux:recipes/craft_ender_essence": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/craft_triender_wind": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/upgrade_sword_ender": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "cyanwarriorswordsredux:recipes/basic_swords": {
+    "criteria": {
+      "has_item": "2025-04-10 21:08:21 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
