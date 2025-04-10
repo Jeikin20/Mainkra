@@ -1242,7 +1242,8 @@
     "criteria": {
       "shrubland": "2025-04-10 22:53:55 +0000",
       "scrubland": "2025-04-10 21:30:42 +0000",
-      "mystic_grove": "2025-04-10 22:54:33 +0000"
+      "mystic_grove": "2025-04-10 22:54:33 +0000",
+      "grassland": "2025-04-10 22:56:09 +0000"
     },
     "done": false
   },
@@ -2920,6 +2921,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-04-10 23:00:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-10 22:47:46 +0000"
@@ -3022,6 +3029,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-10 22:58:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-10 22:47:46 +0000"
@@ -3043,6 +3056,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-10 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-04-10 23:00:21 +0000"
     },
     "done": true
   },
@@ -3124,6 +3143,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-10 22:58:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-10 22:47:46 +0000"
@@ -3187,6 +3212,12 @@
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-10 22:47:46 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-10 22:58:25 +0000"
     },
     "done": true
   },
@@ -3274,15 +3305,33 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-10 22:58:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-10 22:47:46 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-04-10 23:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-10 22:45:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2025-04-10 23:00:21 +0000"
     },
     "done": true
   },
@@ -3316,6 +3365,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-10 22:58:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-10 22:48:03 +0000"
@@ -3343,6 +3398,12 @@
   "tropicraft:recipes/decorations/sifter_with_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-10 22:48:03 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-10 22:58:25 +0000"
     },
     "done": true
   },
@@ -3430,6 +3491,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-10 22:58:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-10 22:48:03 +0000"
@@ -3445,6 +3512,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-10 22:47:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-04-10 23:00:21 +0000"
     },
     "done": true
   },
@@ -3517,6 +3590,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-10 22:47:46 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-10 22:58:25 +0000"
     },
     "done": true
   },

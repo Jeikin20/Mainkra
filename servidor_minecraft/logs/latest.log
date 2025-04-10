@@ -3045,3 +3045,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [10Apr2025 22:48:20.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/108310, l='ServerLevel[world]', x=786.22, y=-11.00, z=-1564.74] died: xXFuryXx withered away whilst fighting Glow Skeleton
 [10Apr2025 22:48:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Prepare...
 [10Apr2025 22:51:07.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Bowser'/104384, l='ServerLevel[world]', x=1382.68, y=66.00, z=-1146.14] died: Bowser was slain by Spider
+[10Apr2025 22:58:32.987] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/120249, l='ServerLevel[world]', x=756.70, y=31.00, z=-1613.03] died: Dany_Why was shot by Skeleton
+[10Apr2025 23:00:55.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/120976, l='ServerLevel[world]', x=578.10, y=-9.00, z=-1412.19] died: Mademoiselle2016 was slain by Crystalian
+[10Apr2025 23:02:31.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime has made the advancement [Knowledge of Death]
+[10Apr2025 23:02:31.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime has made the advancement [Ambush]
+[10Apr2025 23:02:55.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/118914, l='ServerLevel[world]', x=789.08, y=-51.00, z=-1642.35] died: Entity was shot by Skeleton
+[10Apr2025 23:04:49.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/99894, l='ServerLevel[world]', x=793.30, y=0.00, z=-1507.30] died: Joker_de_Coeur was slain by Zombie
+[10Apr2025 23:04:55.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/99893, l='ServerLevel[world]', x=773.30, y=10.00, z=-1511.30] died: Nova69 was slain by Enderman
