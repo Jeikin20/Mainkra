@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-04-10 21:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-10 21:18:26 +0000"
@@ -53,6 +65,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-04-10 21:27:25 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-10 21:18:17 +0000"
@@ -77,9 +95,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-04-10 21:27:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-04-10 21:27:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-04-10 21:20:34 +0000"
     },
     "done": true
   },
@@ -95,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_desk": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
@@ -104,6 +146,12 @@
   "cfm:recipes/decorations/acacia_upgraded_fence": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-04-10 21:27:25 +0000"
     },
     "done": true
   },
@@ -203,6 +251,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-10 21:21:42 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-10 21:18:17 +0000"
@@ -224,6 +278,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
     },
     "done": true
   },
@@ -251,9 +311,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-04-10 21:27:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_park_bench": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/decorations/bamboo_item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
     },
     "done": true
   },
@@ -311,9 +383,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-10 21:27:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_coffee_table": {
     "criteria": {
       "has_planks": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-10 21:27:32 +0000"
     },
     "done": true
   },
@@ -353,9 +443,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-10 21:20:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
     },
     "done": true
   },
@@ -380,6 +482,12 @@
   "cyanwarriorswordsredux:recipes/craft_mixed_essence": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-10 21:27:32 +0000"
     },
     "done": true
   },
@@ -453,6 +561,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-04-10 21:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
@@ -471,15 +585,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-10 21:27:32 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/craft_meteothu_meteo": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-10 21:22:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-04-10 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
     },
     "done": true
   },
@@ -516,6 +648,12 @@
   "croptopia:recipes/food/toast_from_bread": {
     "criteria": {
       "has_bread": "2025-04-10 21:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-10 21:27:25 +0000"
     },
     "done": true
   },
@@ -561,9 +699,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-04-10 21:27:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-10 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-04-10 21:27:25 +0000"
     },
     "done": true
   },
@@ -582,6 +738,12 @@
   "cyanwarriorswordsredux:recipes/craft_wind_essence": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-04-10 21:27:32 +0000"
     },
     "done": true
   },
@@ -615,6 +777,12 @@
     },
     "done": true
   },
+  "toolbelt:recipes/pouch": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/craft_triender_fire": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
@@ -639,9 +807,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-10 21:27:32 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/smelt_furnace": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-04-10 21:27:32 +0000"
     },
     "done": true
   },
@@ -801,6 +981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-10 21:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-10 21:19:17 +0000"
@@ -810,6 +996,12 @@
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/belt": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
     },
     "done": true
   },
@@ -840,6 +1032,12 @@
   "cyanwarriorswordsredux:recipes/upgrade_sword_water": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-10 21:27:28 +0000"
     },
     "done": true
   },
@@ -980,6 +1178,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-10 21:27:25 +0000"
     },
     "done": true
   },
