@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-04-10 21:46:15 +0000"
@@ -266,6 +272,12 @@
   "cfm:recipes/decorations/acacia_desk": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-04-10 22:06:04 +0000"
     },
     "done": true
   },
@@ -361,6 +373,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-10 22:18:40 +0000",
       "minecraft:zombie": "2025-04-10 21:18:51 +0000"
     },
     "done": false
@@ -653,6 +666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-10 22:19:36 +0000"
+    },
+    "done": true
+  },
   "cyanwarriorswordsredux:recipes/craft_beast_essence": {
     "criteria": {
       "has_item": "2025-04-10 21:05:13 +0000"
@@ -686,6 +705,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-10 21:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-10 22:19:36 +0000"
     },
     "done": true
   },
@@ -788,6 +813,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
     },
     "done": true
   },
@@ -1080,6 +1111,12 @@
   "cfm:recipes/decorations/lime_cooler": {
     "criteria": {
       "has_chest": "2025-04-10 21:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
     },
     "done": true
   },
@@ -1461,6 +1498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_blinds": {
     "criteria": {
       "has_log": "2025-04-10 21:45:56 +0000"
@@ -1515,6 +1558,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-04-10 21:12:03 +0000"
@@ -1530,6 +1579,12 @@
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-04-10 21:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
     },
     "done": true
   },
@@ -1566,6 +1621,12 @@
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2025-04-10 21:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-10 22:18:40 +0000"
     },
     "done": true
   },
@@ -1653,9 +1714,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-10 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-10 22:06:24 +0000"
     },
     "done": true
   },
@@ -1752,6 +1825,12 @@
   "cfm:recipes/decorations/acacia_coffee_table": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
     },
     "done": true
   },
@@ -1977,6 +2056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-04-10 21:05:13 +0000"
@@ -2153,6 +2238,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-10 22:06:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-04-10 21:45:56 +0000"
@@ -2294,6 +2391,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-04-10 21:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-10 22:19:36 +0000"
     },
     "done": true
   },

@@ -2992,3 +2992,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [10Apr2025 22:03:04.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> ceta ceta
 [10Apr2025 22:03:18.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> ceta cetaaaaaaa
 [10Apr2025 22:04:31.731] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/49858, l='ServerLevel[world]', x=1278.45, y=-2.00, z=-1140.29] died: Mad_Dog was slain by Glow Skeleton
+[10Apr2025 22:04:53.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LagSlime lost connection: Disconnected
+[10Apr2025 22:04:53.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime left the game
+[10Apr2025 22:04:58.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/50628, l='ServerLevel[world]', x=1427.59, y=-7.00, z=-1177.98] died: LoneGuy was slain by Enderman
+[10Apr2025 22:07:00.628] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['SaDrOcK:('/42008, l='ServerLevel[world]', x=1298.21, y=10.00, z=-1077.40] died: SaDrOcK:( was slain by Crystalian
+[10Apr2025 22:08:16.474] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/53506, l='ServerLevel[world]', x=1292.50, y=-38.00, z=-1100.50]
+[10Apr2025 22:08:25.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['SaDrOcK:('/53299, l='ServerLevel[world]', x=1527.43, y=-10.00, z=-1055.61] died: SaDrOcK:( fell from a high place
+[10Apr2025 22:08:42.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [Stone Age]
+[10Apr2025 22:09:18.307] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/54930, l='ServerLevel[world]', x=1307.50, y=-44.00, z=-1136.50]
+[10Apr2025 22:09:29.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [Getting an Upgrade]
+[10Apr2025 22:09:40.042] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/55301, l='ServerLevel[world]', x=1311.50, y=-38.00, z=-1142.50]
+[10Apr2025 22:10:22.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/55860, l='ServerLevel[world]', x=1304.50, y=-43.00, z=-1139.50]
+[10Apr2025 22:11:13.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [Spore]
+[10Apr2025 22:16:27.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [Monster Hunter]
+[10Apr2025 22:18:30.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/62672, l='ServerLevel[world]', x=1420.49, y=63.00, z=-1094.75] died: Gistique was slain by Iron Golem
+[10Apr2025 22:23:55.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/58974, l='ServerLevel[world]', x=1355.25, y=3.00, z=-1168.83] died: Nova69 was slain by Glow Skeleton
