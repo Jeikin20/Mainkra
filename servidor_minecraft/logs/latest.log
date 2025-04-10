@@ -2895,3 +2895,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [10Apr2025 21:09:56.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3348ms or 66 ticks behind
 [10Apr2025 21:10:13.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/3775, l='ServerLevel[world]', x=1382.65, y=-4.00, z=-1024.55] died: Keymind was blown up by Cave Creeper
 [10Apr2025 21:10:13.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/3776, l='ServerLevel[world]', x=1382.06, y=-4.00, z=-1024.68] died: Nova69 was blown up by Cave Creeper
+[10Apr2025 21:15:26.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Sweet Dreams]
+[10Apr2025 21:15:28.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> zzzz
+[10Apr2025 21:15:29.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Awiita02m lost connection: Disconnected
+[10Apr2025 21:15:29.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m left the game
+[10Apr2025 21:15:35.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rouqile> zzzz
+[10Apr2025 21:16:11.730] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ae11144[id=<null>,name=Awiita02m,properties={},legacy=false] (/127.85.180.135:33861) lost connection: Disconnected
+[10Apr2025 21:16:50.581] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@238208d5[id=<null>,name=Awiita02m,properties={},legacy=false] (/127.85.180.135:33839) lost connection: Disconnected
+[10Apr2025 21:17:14.631] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Awiita02m is b192b997-f6e8-437b-99e1-5a3c2905f27d
+[10Apr2025 21:17:28.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Awiita02m[/127.85.180.135:55201] logged in with entity id 13026 at (1390.1756119916724, 68.0, -1062.0619599141964)
+[10Apr2025 21:17:28.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m joined the game
+[10Apr2025 21:17:28.368] [Server thread/INFO] [Jade/]: Syncing config to Awiita02m (b192b997-f6e8-437b-99e1-5a3c2905f27d)
+[10Apr2025 21:17:31.977] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nelly'/3603, l='ServerLevel[world]', x=1366.12, y=73.94, z=-1078.42] died, message: 'Nelly was slain by Infected Wandering Trader'
+[10Apr2025 21:17:44.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/12897, l='ServerLevel[world]', x=-121.46, y=79.00, z=-8.43] died: xXFuryXx was blown up by Spruce Creeper
+[10Apr2025 21:17:59.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m has made the advancement [Sweet Dreams]
+[10Apr2025 21:18:51.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Monster Hunter]
+[10Apr2025 21:20:03.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Awiita02m lost connection: Disconnected
+[10Apr2025 21:20:03.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Awiita02m left the game
+[10Apr2025 21:20:30.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile was slain by Infected Wandering Trader
+[10Apr2025 21:20:30.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has made the advancement [Your First Grave]
+[10Apr2025 21:20:30.253] [Server thread/INFO] [tombstone/]: The player Rouqile has successfully been saved
+[10Apr2025 21:20:34.786] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Apr2025 21:20:53.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime was slain by Rouqile
+[10Apr2025 21:20:53.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LagSlime has made the advancement [Your First Grave]
+[10Apr2025 21:20:53.536] [Server thread/INFO] [tombstone/]: The player LagSlime has successfully been saved
+[10Apr2025 21:20:54.979] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Apr2025 21:21:37.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile was slain by Infected Wandering Trader
+[10Apr2025 21:21:37.367] [Server thread/INFO] [tombstone/]: The player Rouqile has successfully been saved
+[10Apr2025 21:21:39.532] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Apr2025 21:21:42.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rouqile has reached the goal [Here They Come]
+[10Apr2025 21:21:52.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/18385, l='ServerLevel[world]', x=1477.52, y=65.00, z=-1130.69] died: Sire_AwfulThe1st was slain by Savannah Creeper
+[10Apr2025 21:22:18.031] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Rouqile'/17970, l='ServerLevel[world]', x=1473.53, y=67.00, z=-1045.54] died: Rouqile was slain by Savannah Creeper
+[10Apr2025 21:22:48.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mkrtich'/18396, l='ServerLevel[world]', x=1348.61, y=66.42, z=-1104.70] died, message: 'Mkrtich was slain by Infected Human'
+[10Apr2025 21:22:48.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mkrtich'/18396, l='ServerLevel[world]', x=1348.61, y=66.42, z=-1104.70] died: Mkrtich was slain by Infected Human
