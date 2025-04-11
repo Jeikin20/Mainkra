@@ -370,6 +370,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-11 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-11 01:05:08 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/straw": {
     "criteria": {
       "has_wheat": "2025-04-11 01:05:12 +0000"
@@ -394,21 +406,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-04-11 01:05:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-04-11 01:05:12 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-04-11 01:05:08 +0000"
     },
     "done": true
   },
@@ -442,12 +442,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-04-11 01:05:18 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2025-04-11 01:05:12 +0000"
@@ -463,6 +457,12 @@
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2025-04-11 01:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-11 01:05:18 +0000"
     },
     "done": true
   },

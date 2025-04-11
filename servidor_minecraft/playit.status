@@ -1,251 +1,449 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744333346497 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744333613930 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333349670 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333617236 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333352879 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333620332 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333355984 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333623413 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1744333371880 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333626496 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333375239 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333629908 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333378771 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333634144 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333381905 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333637258 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333385068 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333640436 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333388656 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333643590 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333391843 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333646721 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333394996 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333650383 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333398111 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333653495 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333401425 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333656576 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333404581 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333659670 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333407678 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333662733 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333411450 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333665823 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333414675 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333671168 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1744333429890 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333674347 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333433546 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333677437 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333436625 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333680525 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333439970 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333683707 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333443130 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333687199 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333446221 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333690312 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333449292 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333693507 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333452893 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333696611 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333455978 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333701588 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333459207 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333704707 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333462306 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333707884 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333465558 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333710992 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333469193 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333715349 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1744333484426 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333718548 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333487587 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333721883 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333491632 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333725008 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333495021 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333728095 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333498291 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333731196 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333501450 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333734366 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333504559 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333737481 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333507682 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333744236 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333510817 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333747544 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333514150 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333750709 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333518076 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333753887 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333521164 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333757142 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333524429 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333760599 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1744333539960 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333763877 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333543086 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333767060 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333547811 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333770191 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744333550934 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744333773277 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333776441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333779638 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333782726 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333785905 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333789021 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333792144 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333795220 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333798288 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333801382 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333804493 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333807691 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333811095 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333814197 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333817270 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333820396 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333823732 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333826805 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333829912 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333833234 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333836339 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333839971 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333843141 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333846423 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333849600 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333852761 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333855855 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333858983 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333862628 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333865733 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333868959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333872038 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333875112 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333878703 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333881908 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333884987 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333888072 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333891590 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333894764 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333897833 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333901361 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333904564 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+three-israeli.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744333907654 tunnel running, 1 tunnels registered
 
 
 TUNNELS
